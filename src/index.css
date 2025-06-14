@@ -104,7 +104,7 @@
       transparent 100%
     );
     background-size: 200% 100%;
-    animation: flow 8s ease-in-out infinite;
+    animation: flow 24s ease-in-out infinite;
   }
 
   .flowing-gradient-dark {
@@ -118,7 +118,7 @@
       transparent 100%
     );
     background-size: 200% 100%;
-    animation: flow 8s ease-in-out infinite;
+    animation: flow 24s ease-in-out infinite;
   }
 
   .glass-card {

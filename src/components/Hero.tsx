@@ -34,9 +34,16 @@ const Hero = () => {
           <Button
             variant="outline"
             size="lg"
+            asChild
             className="px-8 py-6 text-lg font-medium border-border hover:bg-accent"
           >
-            Book a Call
+            <a
+              href="https://calendly.com/vaishchhu24/30min?month=2025-06"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Book a Call
+            </a>
           </Button>
         </div>
       </div>

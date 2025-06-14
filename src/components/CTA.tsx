@@ -16,7 +16,7 @@ const CTA = () => {
             </p>
             <Button
               size="lg"
-              className="px-10 py-8 text-xl font-medium bg-foreground text-background hover:bg-foreground/90 border-0 rounded-full mb-12 shadow-lg hover:shadow-xl transition-all duration-300"
+              className="px-6 py-4 md:px-10 md:py-8 text-lg md:text-xl font-medium bg-foreground text-background hover:bg-foreground/90 border-0 rounded-full mb-12 shadow-lg hover:shadow-xl transition-all duration-300"
             >
               Launch My AI Agent →
             </Button>
