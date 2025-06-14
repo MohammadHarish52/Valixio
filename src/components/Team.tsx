@@ -6,14 +6,14 @@ const Team = () => {
     {
       name: "Vaishnavi Singh",
       role: "Founder & CEO",
-      image: "../../public/vaishnavi.png",
+      image: "/vaishnavi.png",
       description: "Sales marketing expert with 80% conversion rate",
       xLink: "https://x.com/vaishchhu24",
     },
     {
       name: "Mohammad Harish",
       role: "Co-Founder & CTO",
-      image: "../../public/Harish.png",
+      image: "/Harish.png",
       description:
         "Founder InfiniteStudioX, Ex cracked devs and full stack engineer",
       xLink: "https://x.com/Harish_52",
