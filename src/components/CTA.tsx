@@ -3,7 +3,6 @@ import { Button } from "@/components/ui/button";
 const CTA = () => {
   return (
     <section className="py-24 px-6 relative overflow-hidden">
-      <div className="absolute inset-0 flowing-gradient dark:flowing-gradient-dark opacity-30"></div>
       <div className="max-w-4xl mx-auto text-center relative z-10">
         <div className="glass-card rounded-2xl p-12 md:p-16 min-h-[500px] flex flex-col justify-between hover:border-border/60 transition-all duration-300">
           <div className="flex flex-col items-center">
